@@ -1,0 +1,10 @@
+{
+  "completed": [
+    "eval_baseline_LRU",
+    "eval_baseline_Decay",
+    "eval_baseline_OPT",
+    "eval_ML_Reg_10k",
+    "eval_ML_Rank_10k",
+    "eval_OPT_Imit_Reg_10k"
+  ]
+}

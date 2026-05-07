@@ -1,0 +1,17 @@
+{
+  "completed": [
+    "Hybrid_ML_Reg_p25_512MB",
+    "Hybrid_OPT_Rank_p10_512MB",
+    "Hybrid_ML_Reg_p25_1GB",
+    "Hybrid_OPT_Rank_p10_1GB",
+    "Hybrid_ML_Reg_p25_2GB",
+    "Hybrid_OPT_Rank_p10_2GB",
+    "Hybrid_ML_Reg_p25_5GB",
+    "Hybrid_OPT_Rank_p10_5GB",
+    "Hybrid_ML_Reg_p25_10GB",
+    "Hybrid_OPT_Rank_p10_10GB",
+    "Hybrid_ML_Reg_p25_20GB",
+    "Hybrid_OPT_Rank_p10_20GB",
+    "Hybrid_ML_Reg_p25_100GB"
+  ]
+}

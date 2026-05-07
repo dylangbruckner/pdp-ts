@@ -1,0 +1,8 @@
+policy,model_type,n_estimators,max_depth,num_leaves,hit_rate,wa,mean_resp_ms,p99_resp_ms,wall_s
+OPT_Rank_t50_d3_l8,OPT_Imit_Rank,50,3,8,0.6887,2.2313,0.787,10.01,1234.0
+OPT_Rank_t100_d4_l15,OPT_Imit_Rank,100,4,15,0.701,2.2266,0.758,10.0,1262.5
+OPT_Rank_t200_d6_l31,OPT_Imit_Rank,200,6,31,0.7005,2.2272,0.756,10.0,1278.4
+OPT_Rank_t500_d6_l31,OPT_Imit_Rank,500,6,31,0.7005,2.2272,0.756,10.0,1271.8
+OPT_Rank_t300_d8_l63,OPT_Imit_Rank,300,8,63,0.6957,2.2282,0.764,10.0,1252.2
+OPT_Rank_t500_d8_l63,OPT_Imit_Rank,500,8,63,0.6957,2.2282,0.764,10.0,1290.9
+OPT_Rank_t1000_d10_l127,OPT_Imit_Rank,1000,10,127,0.6997,2.2264,0.762,10.0,1291.1

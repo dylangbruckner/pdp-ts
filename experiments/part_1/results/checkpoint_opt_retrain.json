@@ -1,0 +1,27 @@
+{
+  "completed": [
+    "opt_data_1shards",
+    "train_opt_reg_10k",
+    "train_opt_reg_100k",
+    "train_opt_reg_1shard",
+    "opt_data_2shards",
+    "train_opt_reg_2shards",
+    "opt_data_4shards",
+    "train_opt_reg_4shards",
+    "eval_OPT_Imit_Reg_10k",
+    "eval_OPT_Imit_Reg_100k",
+    "eval_OPT_Imit_Reg_1shard",
+    "eval_OPT_Imit_Reg_2shards",
+    "eval_OPT_Imit_Reg_4shards",
+    "train_opt_rank_10k",
+    "train_opt_rank_100k",
+    "train_opt_rank_1shard",
+    "train_opt_rank_2shards",
+    "train_opt_rank_4shards",
+    "eval_OPT_Imit_Rank_10k",
+    "eval_OPT_Imit_Rank_100k",
+    "eval_OPT_Imit_Rank_1shard",
+    "eval_OPT_Imit_Rank_2shards",
+    "eval_OPT_Imit_Rank_4shards"
+  ]
+}

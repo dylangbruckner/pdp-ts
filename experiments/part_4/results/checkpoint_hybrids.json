@@ -1,0 +1,12 @@
+{
+  "completed": [
+    "same_group_far_Hybrid_ML_Reg_p25",
+    "same_group_far_Hybrid_OPT_Rank_p10",
+    "diff_group_Hybrid_ML_Reg_p25",
+    "diff_group_Hybrid_OPT_Rank_p10",
+    "diff_cluster_Hybrid_ML_Reg_p25",
+    "diff_cluster_Hybrid_OPT_Rank_p10",
+    "baseline_Hybrid_ML_Reg_p25",
+    "baseline_Hybrid_OPT_Rank_p10"
+  ]
+}

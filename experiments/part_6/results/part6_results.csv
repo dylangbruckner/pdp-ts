@@ -1,0 +1,6 @@
+policy,always_write_slow,on_fast_full,hit_rate,wa,mean_resp_ms,p99_resp_ms,wall_s
+LRU,True,spill,0.7561,2.1976,0.642,9.961,1365.5
+Decay,True,spill,0.721,2.2075,0.667,10.0,872.2
+OPT_Imit_Rank,True,spill,0.0135,2.4348,46.729,1339.685,1242.5
+ML_Reg,True,spill,0.0135,2.4348,46.729,1339.685,1135.5
+LRU,True,wait,0.7476,2.2182,5.772,10.088,896.1

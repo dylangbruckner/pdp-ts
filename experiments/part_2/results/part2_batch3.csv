@@ -1,0 +1,8 @@
+policy,model_type,n_estimators,max_depth,num_leaves,hit_rate,wa,mean_resp_ms,p99_resp_ms,wall_s
+OPT_Reg_t50_d3_l8,OPT_Imit_Reg,50,3,8,0.5464,2.2789,1.214,15.02,1238.4
+OPT_Reg_t100_d4_l15,OPT_Imit_Reg,100,4,15,0.5513,2.2632,4.132,11.68,1257.4
+OPT_Reg_t200_d6_l31,OPT_Imit_Reg,200,6,31,0.5437,2.2813,1.116,11.68,1262.5
+OPT_Reg_t500_d6_l31,OPT_Imit_Reg,500,6,31,0.5558,2.2835,1.058,11.68,1268.2
+OPT_Reg_t300_d8_l63,OPT_Imit_Reg,300,8,63,0.5417,2.2825,1.154,12.577,1290.7
+OPT_Reg_t500_d8_l63,OPT_Imit_Reg,500,8,63,0.5492,2.2859,1.06,11.68,1260.9
+OPT_Reg_t1000_d10_l127,OPT_Imit_Reg,1000,10,127,0.5362,2.2868,1.113,11.68,1251.9

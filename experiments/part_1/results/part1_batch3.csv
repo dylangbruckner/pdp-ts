@@ -1,0 +1,6 @@
+policy,train_size_label,train_rows,hit_rate,wa,mean_resp_ms,p99_resp_ms,wall_s
+OPT_Imit_Rank_2shards,2shards,336000,0.5213,2.2778,1.294,18.803,1665.5
+ML_Reg_4shards,4shards,672000,0.5639,2.2649,1.163,15.02,1635.9
+ML_Rank_4shards,4shards,672000,0.5583,2.2552,4.403,15.0,1616.2
+OPT_Imit_Reg_4shards,4shards,672000,0.6073,2.2628,0.922,11.667,1663.6
+OPT_Imit_Rank_4shards,4shards,672000,0.5041,2.3032,1.262,15.02,1668.8

@@ -1,0 +1,3 @@
+policy,model_type,n_estimators,max_depth,num_leaves,hit_rate,wa,mean_resp_ms,p99_resp_ms,wall_s
+LRU,baseline,0,0,0,0.7561,2.1976,0.642,9.961,1396.0
+Decay,baseline,0,0,0,0.7474,2.2197,0.626,8.789,1431.2

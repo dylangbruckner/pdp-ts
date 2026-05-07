@@ -1,0 +1,27 @@
+{
+  "completed": [
+    "LRU",
+    "Decay",
+    "LRU+CA_r50_n1",
+    "LRU+CA_r100_n1",
+    "LRU+CA_r200_n1",
+    "LRU+CA_r50_n2",
+    "LRU+CA_r100_n2",
+    "LRU+CA_r200_n2",
+    "LRU+CA_r50_n3",
+    "Decay+CA_r100_n2",
+    "Decay+CA_r200_n1",
+    "ML_Promo_hr_t0",
+    "ML_Promo_hr_t0.5",
+    "ML_Promo_hr_t1",
+    "ML_Promo_hr_t2",
+    "ML_Promo_hr_t5",
+    "ML_Promo_rt_t0",
+    "ML_Promo_rt_t0.5",
+    "ML_Promo_rt_t1",
+    "ML_Promo_rt_t2",
+    "ML_Promo_hr_t1+CA_r100",
+    "ML_Promo_hr_t2+CA_r100",
+    "ML_Promo_rt_t1+CA_r100"
+  ]
+}

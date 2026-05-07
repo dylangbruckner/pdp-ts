@@ -1,0 +1,4 @@
+policy,sub_experiment,hybrid_pct,hit_rate,wa,mean_resp_ms,p99_resp_ms,wall_s
+LRU,basic,,0.7561,2.1976,0.642,9.961,1366.8
+LFU,basic,,0.5431,1.9761,2.983,20.442,1627.0
+Decay,basic,,0.7548,2.2174,0.616,8.457,1214.6

@@ -1,0 +1,22 @@
+{
+  "completed": [
+    "same_group_far_LRU",
+    "same_group_far_Decay",
+    "same_group_far_ML_Reg",
+    "same_group_far_ML_Rank",
+    "same_group_far_OPT_Imit_Reg",
+    "same_group_far_OPT_Imit_Rank",
+    "diff_group_LRU",
+    "diff_group_Decay",
+    "diff_group_ML_Reg",
+    "diff_group_ML_Rank",
+    "diff_group_OPT_Imit_Reg",
+    "diff_group_OPT_Imit_Rank",
+    "diff_cluster_LRU",
+    "diff_cluster_Decay",
+    "diff_cluster_ML_Reg",
+    "diff_cluster_ML_Rank",
+    "diff_cluster_OPT_Imit_Reg",
+    "diff_cluster_OPT_Imit_Rank"
+  ]
+}

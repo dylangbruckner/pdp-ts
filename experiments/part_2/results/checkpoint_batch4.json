@@ -1,0 +1,18 @@
+{
+  "completed": [
+    "train_OPT_Rank_t50_d3_l8",
+    "eval_OPT_Rank_t50_d3_l8",
+    "train_OPT_Rank_t100_d4_l15",
+    "eval_OPT_Rank_t100_d4_l15",
+    "train_OPT_Rank_t200_d6_l31",
+    "eval_OPT_Rank_t200_d6_l31",
+    "train_OPT_Rank_t500_d6_l31",
+    "eval_OPT_Rank_t500_d6_l31",
+    "train_OPT_Rank_t300_d8_l63",
+    "eval_OPT_Rank_t300_d8_l63",
+    "train_OPT_Rank_t500_d8_l63",
+    "eval_OPT_Rank_t500_d8_l63",
+    "train_OPT_Rank_t1000_d10_l127",
+    "eval_OPT_Rank_t1000_d10_l127"
+  ]
+}

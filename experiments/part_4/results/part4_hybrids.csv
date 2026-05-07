@@ -1,0 +1,9 @@
+policy,scenario,train_group,eval_group,sat_shards,eval_shards,hit_rate,wa,mean_resp_ms,p99_resp_ms,wall_s
+Hybrid_ML_Reg_p25,same_group_far,c1g1,c1g1,46-47,46-47,0.4349,2.3356,3.137,38.956,1776.5
+Hybrid_OPT_Rank_p10,same_group_far,c1g1,c1g1,46-47,46-47,0.4303,2.3324,3.515,52.68,1709.6
+Hybrid_ML_Reg_p25,diff_group,c1g1,c1g2,0-1,0-1,0.7357,2.258,0.594,10.0,1068.1
+Hybrid_OPT_Rank_p10,diff_group,c1g1,c1g2,0-1,0-1,0.7337,2.2596,0.593,10.0,1086.4
+Hybrid_ML_Reg_p25,diff_cluster,c1g1,c3g1,0-1,0-1,0.8542,2.1785,0.344,10.0,763.5
+Hybrid_OPT_Rank_p10,diff_cluster,c1g1,c3g1,0-1,0-1,0.8554,2.1792,0.345,10.0,854.0
+Hybrid_ML_Reg_p25,baseline,c1g1,c1g1,4-5,4-5,0.7469,2.2223,0.634,8.914,1893.9
+Hybrid_OPT_Rank_p10,baseline,c1g1,c1g1,4-5,4-5,0.7361,2.224,0.653,9.512,1622.8

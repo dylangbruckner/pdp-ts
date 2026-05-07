@@ -1,0 +1,10 @@
+{
+  "completed": [
+    "eval_ML_Rank_1shard",
+    "eval_OPT_Imit_Reg_1shard",
+    "eval_OPT_Imit_Rank_1shard",
+    "eval_ML_Reg_2shards",
+    "eval_ML_Rank_2shards",
+    "eval_OPT_Imit_Reg_2shards"
+  ]
+}

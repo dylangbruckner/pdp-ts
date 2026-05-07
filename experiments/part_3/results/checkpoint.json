@@ -1,0 +1,7 @@
+{
+  "completed": [
+    "basic_LRU",
+    "basic_LFU",
+    "basic_Decay"
+  ]
+}
